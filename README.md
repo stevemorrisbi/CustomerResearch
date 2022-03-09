@@ -1,4 +1,7 @@
 # Customer Research Project
 ### Overview: Customer research project to evaluate best demographics to target for a green energy company.
+
+Dax was utilised for customer segmentation of age groups. 
+
 ![evergreen-page-001](https://user-images.githubusercontent.com/99413257/157268422-3ffd8117-0fb7-41ea-b00b-70aa114c9a92.jpg)
 ![evergreen-page-002](https://user-images.githubusercontent.com/99413257/157268474-70a96080-3a4d-4848-a487-08d7f62924c8.jpg)
