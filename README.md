@@ -3,7 +3,7 @@
 
 ![evergreen-page-001](https://user-images.githubusercontent.com/99413257/157268422-3ffd8117-0fb7-41ea-b00b-70aa114c9a92.jpg)
 
-Although DAX was utilised for customer segmentation of age groups to make clearer distinctions, the dashboard highlights the limitations of the data collected. With detailed conclusions unable to be drawn, ultimately the business will be unable to provide definite calls to action for their marketing staff. Presenting the limitations of the data, however, will serve as a good starting point to fully understand what data is now needed on their clientele to best to target them. 
+Although DAX was utilised for customer segmentation of age groups, the dashboard highlights the limitations of the data collected to make clearer distinctions. With detailed conclusions unable to be drawn, ultimately the business will be unable to provide definite calls to action for their marketing staff. Presenting the limitations of the data, however, will serve as a good starting point to fully understand what data is now needed on their clientele in order to best to target them. 
 
 ![evergreen-page-002](https://user-images.githubusercontent.com/99413257/157268474-70a96080-3a4d-4848-a487-08d7f62924c8.jpg)
 
