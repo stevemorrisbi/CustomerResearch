@@ -11,5 +11,5 @@ Presenting the limitations of the data, however, will serve as a good starting p
 
 ![evergreen-page-002](https://user-images.githubusercontent.com/99413257/157268474-70a96080-3a4d-4848-a487-08d7f62924c8.jpg)
 
-This project would be best developed by further collecting data on the businesses customers and defining a typical customer profile. Data on - location, profession, gender, use of social media platforms and product serveys may provide useful information to best inform marketing strategy.  
+This project would be best developed by further collecting data on the businesses customers and defining a typical customer profile. Data on - location, profession, gender, use of social media platforms and product surveys may provide useful information to best inform marketing strategy.  
 
