@@ -3,7 +3,7 @@
 
 ![evergreen-page-001](https://user-images.githubusercontent.com/99413257/157268422-3ffd8117-0fb7-41ea-b00b-70aa114c9a92.jpg)
 
-Although DAX was utilised for customer segmentation of age groups, the dashboard highlights the limitations of the data collected to make clear distinctions. 
+Although the DAX Switch function was utilised for customer segmentation, the dashboard highlights the limitations of the data collected to make clear distinctions. 
 
 With detailed conclusions unable to be drawn, ultimately the business will be unable to provide definite calls to action for their marketing staff. 
 
